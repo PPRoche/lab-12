@@ -1,5 +1,11 @@
-# node-js-getting-started
+# Modified Section
 
+1. I believe the basics aspects of the Lab have been correctly implemented. I shared the Heroku application with you and the Web application serves POST /rides with JSON [] as a response for lab 11 and this lab I created a working web app on herokuapp.com with Cross-Origin Resource Sharing enabled on POST /rides resource. However, I wasn't able to link my index.html page which thus caused much confusion and a fundamental unability to update the map. If I had more time, I would've liked to have solved this problem.
+
+2. I worked on this assignment by myself.
+
+3. I spent approximately a five hours on this assignment.
+# node-js-getting-started
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
 This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
